@@ -3,7 +3,7 @@
 <head>
 <style>
 body {
-  background-color: gray;
+  background-color: #797979;
 }
 
 h1 {
