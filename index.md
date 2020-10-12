@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
 body {
-  background-color: lightblue;
+  background-color: gray;
 }
 
 h1 {
