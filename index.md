@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <head>   
   <header>
   <title>HTML base Tag</title>
