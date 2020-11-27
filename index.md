@@ -1,46 +1,48 @@
-
-<html>
+<!DOCTYPE html>
+<head>   
+  <header>
+  <title>HTML base Tag</title>
+      <base href="http://www.hsoub.com">
+ 
+  <h1>Ms0</h1>
+ <h3>Hi , my name is MDMN how i can help u ?</h3>
+ <a>  </a>
+  </header>
+      
 <head>
-<style>
-body {
-  background-color: #797979;
-}
-h1 {
-  color: #FF2D00;
-  text-align: center;
 
-}
-h1 {
-  color: white;
-  text-align: center;
-}
 
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
-
-<html>
-<head>
-<style>
-body {
-  background-image: url('https://i.pinimg.com/originals/dc/d4/ee/dcd4ee57b432404b12b8f349752e5c2a.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover;
-}
-</style>
-</head>
 <body>
 
+  
+  
+  
+<picture>
+
+<source srcset="unnamed.jpg" media="(min-width: 600px)">
+  <img src="unnamed.jpg" alt="Cover Picture">
+
+</picture>
 
 
 
-</style>
-</head>
+<audio controls="controls">
+
+  <source src="ggame.ogg" type="video/ogg">
+  <source src="ggame.mp3" type="video/mp3">
+  
+    
+</audio>
+
+
+<p> 
+  <h1>
+    <button>
+<a href="https://wiki.hsoub.com/HTML" target="_blank">link</a>.
+</button>
+</h1>
+</p>
+
+
 <body>
-
-  <h1>Shahiid4up</h1>
-
-</body>
-</html>
+<html> 
