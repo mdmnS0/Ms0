@@ -1,5 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Page Title</title>
 
-<head>   
   <header>
     <title>RkS0</title>
       <base href="http://www.hsoub.com">
