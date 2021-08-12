@@ -2,18 +2,18 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Page Title</title>
+    <title> Ricky </title>
     <link rel="stylesheet" href="site.css">
 
   <header>
-    <title>RkS0</title>
-      <base href="http://www.hsoub.com">
- 
-    <h1>Ms0</h1>
-    <h3>Hi , my name is MDMN how i can help u ?</h3>
-    <a>  </a>
-  </header>
+    
       
+  </header>
+     <Style>
+           .mineo {
+              Color: red;
+               };
+     </Style> 
 <head>
 
 
@@ -22,7 +22,11 @@
      <Div class="mineo"> hello</div>
   
   
-  
+  <base href="http://www.hsoub.com">
+ 
+    <h1>Ms0</h1>
+    <h3>Hi , my name is MDMN how i can help u ?</h3>
+    <a>  </a>Cc in
 <picture>
 
 <source srcset="unnamed.jpg" media="(min-width: 600px)">
