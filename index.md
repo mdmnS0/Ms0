@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Page Title</title>
+    <link rel="stylesheet" href="site.css">
 
   <header>
     <title>RkS0</title>
