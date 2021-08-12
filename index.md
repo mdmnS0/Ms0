@@ -13,6 +13,13 @@
            .mineo {
               Color: red;
                };
+       
+            .mincolor {
+            Background-color: #800080;
+              
+             }
+             
+             
      </Style> 
 <head>
 
