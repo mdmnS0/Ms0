@@ -20,7 +20,7 @@
 <body>
      
      <Div class="mineo"> hello</div>
-  
+     <Div class="mincolor"> <div>
   
   <base href="http://www.hsoub.com">
  
